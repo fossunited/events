@@ -1,2 +1,3 @@
-# event-handbook
-Handbook for running events at FOSS United
+# FOSS United Events
+
+This repository is used for managing the events of FOSS United.

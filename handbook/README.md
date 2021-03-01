@@ -1,3 +1,9 @@
-# Docs
+# FOSS United Events Handbook
 
-This directory contains the [FOSS United Events Handbook](index.md).
+Handbook for conducting events at FOSS United. 
+
+## Outline
+
+* [HOWTO: Setup YouTube Live Stream](livestream.md)
+
+

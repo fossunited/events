@@ -1,0 +1,7 @@
+name: on PR trigger
+run-name: ${{ github.actor }} is testing
+on:
+  push:
+    pull_request:
+      branches: 
+      - master
